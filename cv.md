@@ -73,3 +73,9 @@ Development ecommerce solutions based on Magento 1, extension development.
 Informatics & Radio electronics**
 
 *Sep 2008 — May 201I*
+
+
+## Languages
+---
+English - level B2
+
