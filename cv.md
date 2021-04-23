@@ -66,4 +66,10 @@ OIR project. A platform for enterprise customers to publish their products and s
 
 Development ecommerce solutions based on Magento 1, extension development.
 
+## EDUCATION
+---
 
+**Software engineer, Belarusian State University of
+Informatics & Radio electronics**
+
+*Sep 2008 — May 201I*
